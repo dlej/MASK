@@ -58,4 +58,4 @@ data(i,:)=y(1,:);
 end
 
 
-save('Caeuler.mat','data');
+save('data/Caeuler.mat','data');
